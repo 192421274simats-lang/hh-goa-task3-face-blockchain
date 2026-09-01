@@ -1,1 +1,6 @@
-
+opencv-contrib-python
+numpy
+requests
+web3
+python-dotenv
+Pillow
